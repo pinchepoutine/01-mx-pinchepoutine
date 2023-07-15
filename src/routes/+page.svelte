@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Poutinería ¡Pinche Poutine! QEPD</h1>
+<p>Visita <a href="https://plantas.patraldo.com">Viva ¡Plantas Patraldo!</a></p>
